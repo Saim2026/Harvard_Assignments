@@ -6,4 +6,4 @@ Learn about functions, arguments, and return values (oh my!); variables and type
 
 Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. 
 
-So, let's deep dive! :)
+So, let's deep dive in! :)
